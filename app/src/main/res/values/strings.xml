@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoodbyeDPI</string>
+    <string name="label_connection_duration">Bağlantı Süresi</string>
+    <string name="label_internet_used">Kullanılan İnternet</string>
+    <string name="btn_start">Başlat</string>
+    <string name="btn_stop">Durdur</string>
+</resources>
